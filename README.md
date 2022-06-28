@@ -1,4 +1,4 @@
-# fe-test
+# api product using vue, tailwind, axios
 
 ## Project setup
 ```
